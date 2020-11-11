@@ -15,6 +15,7 @@ namespace 梁大炮
 { 
     public partial class Form1 : Form
     {
+        int we = 1;
         Juese juese;
         Enemy[] enemys ;
         Zidan[,] bullet;
